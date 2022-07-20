@@ -47,8 +47,8 @@
 	--dplus-spacing-app: 10px;
 
 	/* Icons */
-	--dplus-icon-home-dark: url(https://plusinsta.xyz/discord-plus/assets/discord/home_dark.svg);
-	--dplus-icon-home-light: url(https://plusinsta.xyz/discord-plus/assets/discord/home_light.svg);
+	--dplus-icon-home-dark: url(https://clearvision.gitlab.io/icons/discord.svg);
+	--dplus-icon-home-light: url(https://clearvision.gitlab.io/icons/discord.svg);
 
 		/* Icon sizes*/
 	--dplus-icon-avatar-chat: 64px;
