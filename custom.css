@@ -18,8 +18,8 @@
 :root {
 
 	/* Accent colors */
-	--dplus-accent-ui: #ffffff;
-	--dplus-accent-ui-hover: #ffffff;
+	--dplus-accent-ui: rgba(12, 93, 143, 0.579);
+	--dplus-accent-ui-hover: #0066CC;
 
 	/* Fonts */
 	--dplus-font-ui: 'Poppins';
@@ -47,8 +47,8 @@
 	--dplus-spacing-app: 10px;
 
 	/* Icons */
-	--dplus-icon-home-dark: url(https://clearvision.gitlab.io/icons/discord.svg);
-	--dplus-icon-home-light: url(https://clearvision.gitlab.io/icons/discord.svg);
+	--dplus-icon-home-dark: url(https://iconape.com/wp-content/files/bn/380462/svg/380462.png);
+	--dplus-icon-home-light: url(https://iconape.com/wp-content/files/bn/380462/svg/380462.png);
 
 		/* Icon sizes*/
 	--dplus-icon-avatar-chat: 64px;
@@ -96,17 +96,18 @@
 	--dplus-dark-bgc-button-hover: hsla(0, 0%, 20%, 0.60);
 	--dplus-dark-bgc-server-button: hsla(0, 0%, 15%, 0.50);
 	--dplus-dark-bgc-server-button-hover: hsla(0, 0%, 20%, 0.60);
-	--dplus-light-bgc-ui-base: hsla(0, 0%, 97%, 0.88);
+
+	--dplus-light-bgc-ui-base: hsla(0, 0%, 100%, 0.88);
 	--dplus-light-bgc-ui-base-hover: hsla(0, 0%, 100%, 0.90);
 	--dplus-light-bgc-ui-card: hsla(0, 0%, 93%, 0.75);
 	--dplus-light-bgc-ui-card-hover: hsla(0, 0%, 50%, 0.25);
 	--dplus-light-bgc-chatmsg: hsla(0, 0%, 97%, 0.88);
 	--dplus-light-bgc-chatmsg-hover: hsla(0, 0%, 100%, 0.90);
-	--dplus-light-bgc-popout: hsla(0, 0%, 100%, 0.80);
+	--dplus-light-bgc-popout: rgba(255, 255, 255, 0.8);
 	--dplus-light-bgc-button: hsla(0, 0%, 50%, 0.80);
 	--dplus-light-bgc-button-hover: hsla(0, 0%, 40%, 0.50);
-	--dplus-light-bgc-server-button: hsla(0, 0%, 95%, 0.75);
-	--dplus-light-bgc-server-button-hover: hsla(0, 0%, 100%, 1);
+	--dplus-light-bgc-server-button: hsla(0, 0%, 100%, 0.75);
+	--dplus-light-bgc-server-button-hover: rgb(190, 190, 190);
 }
 
 	/* Apply to corresponding theme */
